@@ -21,6 +21,9 @@ The file 'covid.csv' contains data on covid tests in Wisconsin by county. Each o
 ### q2a.csv
 The file 'q2a.csv' contains data on the cumulative number of COVID cases in each county in Wisconsin. This file is created from 'covid.csv'.
 
+### wdi_e2.csv
+The file 'wdi_e2.csv' contains data on real GDP and the working age population (15-64 years) for China and Japan from 1970 to 2019.
+
 
 ## 2021 Fall Exam 1
 
