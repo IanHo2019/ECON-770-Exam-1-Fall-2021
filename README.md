@@ -13,6 +13,15 @@ The file 'base_money.xlsx' contains the monthly U.S. monetary base as computed b
 The file 'dane_housing_start.csv' contains the number of new private houses started per year in Dane County at Madison, WI.
 
 
+## 2020 Fall Exam 2
+
+### covid.csv
+The file 'covid.csv' contains data on covid tests in Wisconsin by county. Each observation in the data is a county-day. The data cover March 15, 2020 to November 16, 2020. The *POS_NEW* variable contains the day's new cases.
+
+### q2a.csv
+The file 'q2a.csv' contains data on the cumulative number of COVID cases in each county in Wisconsin. This file is created from 'covid.csv'.
+
+
 ## 2021 Fall Exam 1
 
 ### 2021-02.csv
