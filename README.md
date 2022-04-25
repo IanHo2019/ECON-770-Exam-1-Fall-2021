@@ -24,6 +24,9 @@ The file 'q2a.csv' contains data on the cumulative number of COVID cases in each
 ### wdi_e2.csv
 The file 'wdi_e2.csv' contains data on real GDP and the working age population (15-64 years) for China and Japan from 1970 to 2019.
 
+### clubs.csv & roster.csv
+The file 'clubs.csv' contains data about four BIG10 schools. The file 'roster.csv' contains data about football players at four BIG10 schools.
+
 
 ## 2021 Fall Exam 1
 
