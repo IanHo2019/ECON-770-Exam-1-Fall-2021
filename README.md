@@ -50,6 +50,7 @@ The files 'pl.csv' and 'nval.csv' contain the price index and nominal value adde
 
 ### q2a_f21.csv
 The file 'q2a_f21.csv' is constructed by merging 'pl.csv' and 'nval.csv' and computing real value added by industry by the following formula:
+
 <img src="https://latex.codecogs.com/svg.image?\text{real&space;value&space;added}&space;=&space;\frac{\text{nominal&space;value&space;added}}{\text{price&space;index}/100}" title="https://latex.codecogs.com/svg.image?\text{real value added} = \frac{\text{nominal value added}}{\text{price index}/100}" />
 
 ### wdi_q4.csv
