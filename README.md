@@ -41,3 +41,16 @@ The file 'invest.csv' contains quarterly U.S. private nonresidentrial fixed inve
 
 ### phil.xls
 The file 'phil.xls' contains the U.S. unemployment rate and inflation rate.
+
+
+## 2021 Fall Exam 2
+
+### pl.csv & nval.csv
+The files 'pl.csv' and 'nval.csv' contain the price index and nominal value added by U.S. industries for 2010–2020.
+
+### q2a_f21.csv
+The file 'q2a_f21.csv' is constructed by merging 'pl.csv' and 'nval.csv' and computing real value added by industry by the following formula:
+<img src="https://latex.codecogs.com/svg.image?\text{real&space;value&space;added}&space;=&space;\frac{\text{nominal&space;value&space;added}}{\text{price&space;index}/100}" title="https://latex.codecogs.com/svg.image?\text{real value added} = \frac{\text{nominal value added}}{\text{price index}/100}" />
+
+### wdi_q4.csv
+The file 'wdi_q4.csv' contains data on real GDP and the working age population (15-64 years) for China and Japan from 1970 to 2019.
