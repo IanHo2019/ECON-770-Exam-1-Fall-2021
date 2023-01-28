@@ -1,5 +1,5 @@
 # ECON-770 Exam Files
-This repository contains all used files in ECON-770 Exam at UW-Madison.
+This repository contains all used files in ECON-770 exams at University of Wisconsin-Madison.
 
 ## 2020 Fall Exam 1
 
